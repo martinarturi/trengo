@@ -1,0 +1,109 @@
+first name,last name,address,city,postal code,country,date of birth,personal description
+Ataturk, Mustafa Kemal, Akdeniz Cd. No:31 Cankaya,Ankara,06570,Turkiye,1881-10-29,"Military officer, revolutionary, statesman, and founder of the Republic of Turkey."
+Alice,Wonderland,101 Rabbit Hole St,Wonderland,12345,Wonderland,1980-02-15,Curious and adventurous.
+Bob,Builder,123 Sesame St,Sesame Street,54321,Sesame Street,1975-03-20,Friendly and helpful.
+Charlie,Chocolate,1 Chocolate Way,Chocolate Town,67890,Chocolate Land,1990-04-25,Sweet and imaginative.
+David,Copperfield,7 Copperfield Ln,Copperfield,89012,Copperfield,1985-05-30,Illusionist and entertainer.
+Eve,Eden,1 Eden Ave,Eden,34567,Eden,1995-06-15,Peaceful and serene.
+Frank,enstein,1 Frankenstein Dr,Frankenstein,09876,Frankenstein,1818-11-18,Scientist and monster creator.
+George,Washington,1600 Pennsylvania Ave,Washington D.C.,20500,United States,1732-02-22,First President of the United States.
+Helen,Keller,100 Keller St,Keller,45678,Keller,1880-03-27,Author and activist.
+Igor,From,1 Igor Way,Igorland,56789,Igorland,1960-04-10,Assistant to Dr. Frankenstein.
+Jack,Sparrow,1 Pirate Way,Pirate Island,67890,Pirate Land,1720-06-19,Pirate and adventurer.
+Jill,Hilltop,1 Hilltop Dr,Hilltop,78901,Hilltop,1990-07-10,Hiker and nature lover.
+Kate,Middleton,Kensington Palace,London,SW1A 1AA,United Kingdom,1982-01-09,Duchess of Cambridge.
+Leo,Messi,Camp Nou,Barcelona,08028,Spain,1987-06-24,Soccer player.
+Mary,Poppins,1 Cherry Tree Ln,London,SW1A 1AA,United Kingdom,1910-08-09,Practically perfect in every way.
+Nancy,Drew,1 River Heights Dr,River Heights,54321,United States,1930-03-18,Detective and sleuth.
+Oliver,Twist,1 Orphanage Ln,London,EC1V 1AA,United Kingdom,1812-02-02,Orphan and street urchin.
+Paul,McCartney,1 Abbey Rd,London,NW8 9SA,United Kingdom,1942-06-18,Musician and singer-songwriter.
+Queen,Elizabeth,Buckingham Palace,London,SW1A 1AA,United Kingdom,1926-04-21,Queen of the United Kingdom.
+Rachel,Green,1 Monica Geller St,New York City,10001,United States,1969-05-16,Waitress and fashion enthusiast.
+Ross,Geller,1 Monica Geller St,New York City,10001,United States,1967-10-18,Paleontologist and professor.
+Sam,wise,1 Samwise Way,Middle-earth,00000,Middle-earth,1960-01-01,Hobbit and gardener.
+Sally,sells,1 Sally Street,Sallyville,12345,Sallyland,1985-02-14,Salesperson.
+Steve,Jobs,1 Apple Park Way,Cupertino,95014,United States,1955-02-24,Entrepreneur and co-founder of Apple.
+Thomas,Edison,1 Menlo Park Way,Menlo Park,94025,United States,1847-02-11,Inventor and businessman.
+Ursula,Underwater,1 Ursula Way,Under the Sea,00000,Under the Sea,1950-03-15,Sea witch.
+Veronica,Mars,1 Neptune High St,Neptune,90210,United States,1984-08-25,Private investigator and student.
+Walter,White,1 Walter White Dr,Albuquerque,87111,United States,1958-09-07,Chemistry teacher and drug dealer.
+Wendy,Darling,1 Darling St,London,SW1A 1AA,United Kingdom,1910-08-09,"Mother of Peter, John, and Michael Darling."
+Xavier,Charles,1 Xavier School St,Xavier,00000,Xavier,1906-06-07,Professor and telepath.
+Yolanda,Young,1 Young St,Youngstown,44501,United States,1975-07-12,Teacher and community leader.
+Zelda,Fitzgerald,1 Fitzgerald Ave,Fitzgerald,12345,Fitzgerald,1900-07-24,Author and socialite.
+Aaron,Sorkin,1 Sorkin St,New York City,10001,United States,1961-02-09,Writer and producer.
+Beth,O'Leary,1 O'Leary Ln,Dublin,D01 V1H5,Ireland,1976-05-17,Author.
+Charles,Darwin,1 Down House Way,Down,TN16 1LJ,United Kingdom,1809-02-12,Naturalist and scientist.
+Danielle,Steel,1 Steel St,San Francisco,94102,United States,1947-08-14,Author.
+Edward,Scissorhands,1 Scissorhands Ln,Suburbia,12345,Suburbia,1950-11-07,Inventor with scissor hands.
+Francis,Ford,1 Coppola St,New York City,10001,United States,1939-04-07,Film director and producer.
+George,Lucas,1 Lucas Ln,Los Angeles,90048,United States,1944-05-18,Film director and producer.
+Helen,Mirren,1 Mirren Way,London,SW1A 1AA,United Kingdom,1945-07-26,Actress.
+Laura,Ingalls,1 Ingalls Ln,Walnut Grove,56083,United States,1867-03-07,Author and pioneer.
+Zachary,Levi,1 Levi St,Los Angeles,90048,United States,1980-02-29,Actor and singer.
+Xavier,Cugat,1 Cugat St,Barcelona,08028,Spain,1900-01-22,Musician and bandleader.
+Yvonne,Strahovski,1 Strahovski Ln,Melbourne,3000,Australia,1982-07-11,Actress.
+Zachary,Levi,1 Levi St,Los Angeles,90048,United States,1980-02-29,Actor and singer.
+Abigail,Adams,1 Adams St,Quincy,02169,United States,1744-11-11,Second First Lady of the United States.
+Benjamin,Franklin,1 Franklin Way,Philadelphia,19102,United States,1706-01-17,Founding Father of the United States.
+Charles,Babbage,1 Babbage Ln,London,NW1 5LH,United Kingdom,1791-12-26,Mathematician and inventor.
+Danielle,Carter,1 Carter St,Washington D.C.,20500,United States,1961-09-06,First Lady of the United States.
+Edward,Norton,1 Norton Way,New York City,10001,United States,1967-08-18,Actor.
+Francis,Bacon,1 Bacon Ln,London,EC2A 3HQ,United Kingdom,1561-01-22,Philosopher and statesman.
+George,Bernard,1 Shaw Way,Dublin,D01 V1H5,Ireland,1856-07-02,Playwright and critic.
+Isaac,Asimov,1 Asimov Way,Brooklyn,11210,United States,1920-01-02,Science fiction writer and biochemist.
+James,Joyce,1 Joyce Ln,Dublin,D01 V1H5,Ireland,1880-02-02,Novelist and poet.
+Katherine,Mansfield,1 Mansfield Way,Wellington,6001,New Zealand,1888-07-14,Short story writer.
+Laura,Bush,1 Bush St,Crawford,76638,United States,1946-04-04,First Lady of the United States.
+Mark,Zuckerberg,1 Zuckerberg Way,Palo Alto,94301,United States,1984-05-14,Entrepreneur and co-founder of Facebook.
+Natalie,Wood,1 Wood St,San Francisco,94102,United States,1938-07-20,Actress.
+Olivia,de Havilland,1 de Havilland Ln,Tokyo,10000,Japan,1916-07-16,Actress.
+Peter,Gabriel,1 Gabriel Way,London,NW6 6LP,United Kingdom,1950-02-13,Singer and songwriter.
+Quentin,Crisp,1 Crisp St,London,SW1A 1AA,United Kingdom,1936-09-21,Writer and performer.
+Richard,Nixon,1 Nixon Way,Yorba Linda,92886,United States,1913-01-09,37th President of the United States.
+Sarah,Palin,1 Palin St,Wasilla,99654,United States,1964-02-11,Politician and author.
+Thomas,Moore,1 Moore Way,Dublin,D01 V1H5,Ireland,1779-05-28,Poet and songwriter.
+Ursula,K. Le Guin,1 Le Guin Ln,Portland,97201,United States,1929-10-21,Science fiction writer.
+Victoria,Woodhull,1 Woodhull Way,Utica,13502,United States,1838-07-23,Social reformer and feminist.
+William,H. Taft,1 Taft St,Cincinnati,45202,United States,1857-09-15,27th President of the United States.
+Xavier,Bertrand,1 Bertrand Way,Paris,75001,France,1965-03-06,Politician.
+Yvonne,De Carlo,1 De Carlo St,Los Angeles,90048,United States,1922-09-16,Actress.
+Zachary,Taylor,1 Taylor Way,Louisville,40202,United States,1784-03-24,12th President of the United States.
+Abigail,Johnson,1 Johnson St,Boston,02116,United States,1942-02-19,First Lady of the United States.
+Benjamin,Disraeli,1 Disraeli Ln,London,SW1A 1AA,United Kingdom,1804-12-21,Prime Minister of the United Kingdom.
+Charles,Dickens,1 Dickens Way,London,WC2E 8TA,United Kingdom,1812-02-07,Novelist.
+Danielle,Campbell,1 Campbell St,London,SW1A 1AA,United Kingdom,1977-03-10,Model.
+Edward,Kennedy,1 Kennedy Way,Hyannis Port,02601,United States,1932-02-22,Senator.
+Francis,Scott,1 Key Way,Baltimore,21202,United States,1779-08-01,Author of the Star-Spangled Banner.
+George,Harrison,1 Harrison St,Liverpool,L7 3BD,United Kingdom,1943-02-25,Musician and singer-songwriter.
+Helen,Hunt,1 Hunt St,Los Angeles,90048,United States,1963-06-15,Actress and director.
+Isaac,Newton,1 Trinity College Way,Cambridge,CB2 1TQ,United Kingdom,1643-01-04,Physicist and mathematician.
+James,Cameron,1 Cameron St,Toronto,M5A 3A1,Canada,1954-08-16,Film director and producer.
+Katherine,Hepburn,1 Hepburn St,Philadelphia,19102,United States,1907-05-12,Actress.
+Laura,Ingalls,1 Ingalls Ln,Walnut Grove,56083,United States,1867-03-07,Author and pioneer.
+Mark,Twain,1 Twain Way,Hannibal,63401,United States,1835-11-30,Author and humorist.
+Natalie,Portman,1 Portman St,Jerusalem,97200,Israel,1981-06-09,Actress.
+Olivia,Newton-John,1 Newton-John Way,Melbourne,3000,Australia,1948-09-26,Singer and actress.
+Peter,Pan,1 Neverland Way,Neverland,00000,Neverland,1900-06-06,Boy who never grew up.
+Quentin,Tarantino,1 Tarantino St,Los Angeles,90048,United States,1963-03-27,Film director and screenwriter.
+Richard,Branson,1 Necker Island Way,Necker Island,00000,British Virgin Islands,1950-07-18,Entrepreneur and businessman.
+Sarah,Connor,1 Connor St,Los Angeles,90048,United States,1984-07-13,Terminator.
+Thomas,Jefferson,1 Monticello Way,Charlottesville,22902,United States,1743-04-13,Third President of the United States.
+Ursula,Andress,1 Andress Ave,Rome,00186,Italy,1936-03-29,Actress.
+Victoria,Beckham,1 Beckham St,London,SW1A 1AA,United Kingdom,1975-04-08,Fashion designer and singer.
+William,Shakespeare,1 Stratford-upon-Avon Way,Stratford-upon-Avon,CV37 6QW,United Kingdom,1564-04-23,Playwright and poet.
+John,Smith,123 Maple Street,Toronto,M5V 2T6,Canada,1985-03-15,"Enthusiastic gardener and amateur chef who loves spending weekends tending to his vegetable garden"
+Maria,Garcia,742 Pine Avenue,Barcelona,08001,Spain,1990-11-28,"Freelance photographer specializing in street photography, passionate about capturing urban life"
+James,Wilson,15 Oxford Road,London,SW1A 1AA,United Kingdom,1978-07-04,"Former mathematics teacher turned software developer, enjoys solving complex puzzles"
+Sophie,Laurent,27 Rue de la Paix,Paris,75002,France,1992-09-19,"Professional ballet dancer and yoga instructor with a love for classical music"
+Hans,Mueller,89 Berliner Strasse,Berlin,10115,Germany,1983-12-05,"Environmental scientist focusing on renewable energy, dedicated cyclist and outdoor enthusiast"
+Yuki,Tanaka,34-2 Sakura-cho,Tokyo,150-0002,Japan,1995-04-12,"Digital artist and anime enthusiast who creates immersive virtual reality experiences"
+Emma,Anderson,456 Lake Drive,Sydney,2000,Australia,1988-08-23,"Marine biologist specializing in coral reef conservation, avid scuba diver"
+Alessandro,Rossi,Via Roma 45,Milan,20121,Italy,1981-06-30,"Award-winning pastry chef with a passion for combining traditional and modern dessert techniques"
+Olivia,Chen,888 Nanjing Road,Shanghai,200000,China,1993-02-14,"International business consultant and tea connoisseur, fluent in five languages"
+Lars,Andersen,123 Strandgade,Copenhagen,1401,Denmark,1987-10-08,"Sustainable architecture specialist focusing on innovative eco-friendly building designs"
+Priya,Patel,72 Marine Drive,Mumbai,400020,India,1994-12-31,"Tech startup founder working on AI solutions for healthcare, classical Indian dancer"
+Miguel,Santos,Rua Augusta 100,Lisbon,1100-053,Portugal,1982-05-17,"Wine expert and food critic who leads culinary tours through historic Portuguese neighborhoods"
+Anna,Kowalski,Nowy Swiat 45,Warsaw,00-496,Poland,1991-01-25,"Children's book illustrator and stop-motion animator creating whimsical stories"
+Sarah,O'Connor,42 Grafton Street,Dublin,D02 XY28,Ireland,1986-03-07,"Traditional musician and music teacher specializing in Celtic harp and fiddle"
+Ahmed,Hassan,25 Al Rigga Road,Dubai,12345,UAE,1989-07-20,"Financial technology innovator developing blockchain solutions for sustainable banking"
